@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OitavaAgenda", "OitavaAgenda.csproj", "{1787BCA9-11D1-4CE6-92D2-20B939E05EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1787BCA9-11D1-4CE6-92D2-20B939E05EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1787BCA9-11D1-4CE6-92D2-20B939E05EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1787BCA9-11D1-4CE6-92D2-20B939E05EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1787BCA9-11D1-4CE6-92D2-20B939E05EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C6092D-F44B-40B9-843A-386EE13829DD}
+	EndGlobalSection
+EndGlobal
